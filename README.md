@@ -1,3 +1,10 @@
+
+
+Collaborators:
+
+Henrik Nytun and Erlend Lygre
+
+
 # finnyoga
 
 ## Project setup
